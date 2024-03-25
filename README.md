@@ -3,7 +3,7 @@
 
 ### 🎓 Course Link - [Here](https://softuni.bg/trainings/3871/programming-basics-with-csharp-october-2022)
 
-Welcome to the JS Applications course! This course will equip participants with the knowledge and skills required to work with JavaScript applications. Throughout this course, you will delve into various aspects of web development,NoSQL databases,MongoDB,Mongoose,Express
+Welcome to the C# Basics Course! Throughout this course, you will learn: datatypes, loops, if-else and many more.
 
 #### Skills You Will Gain
 
