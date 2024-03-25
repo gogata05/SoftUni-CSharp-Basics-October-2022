@@ -1,3 +1,4 @@
+![Certificate](https://imgur.com/wTBE5vc.png)
 ### 📚 SoftUni-CSharp-Basics-October-2022 Retake
 
 ### 🎓 Course Link - [Here](https://softuni.bg/trainings/3871/programming-basics-with-csharp-october-2022)
